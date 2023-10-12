@@ -33,6 +33,24 @@ Membuat Form
 
 ![Screenshot (194)](https://github.com/Hilmyramzy/lab3web/assets/115677769/52f20a14-fccd-4422-b48d-ff237c744177)
 
+.
+.
+.
+.
+Menampilkan dropdown menu
+![Screenshot (200)](https://github.com/Hilmyramzy/lab3web/assets/115677769/087e6b4d-6800-414c-8e11-bc48eb058847)
+![Screenshot (199)](https://github.com/Hilmyramzy/lab3web/assets/115677769/fc1c3468-2f64-456a-8a6a-672cba3e1312)
+
+
+menampilkan listbox multiple selection
+![Screenshot (202)](https://github.com/Hilmyramzy/lab3web/assets/115677769/70f32749-64c3-43fa-889f-e4302c66b9a0)
+![Screenshot (201)](https://github.com/Hilmyramzy/lab3web/assets/115677769/28438ec7-9811-4713-b36d-97a83cb7fbfe)
+
+
+
+
+
+
 
 
 
